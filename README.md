@@ -20,7 +20,7 @@ By combining exploratory data analysis, K-Means clustering, and a Gradient Boost
 
 **1. Clone the repository:**
 ~~~bash
-git clone https://github.com/yourusername/crypto-sentiment-analysis.git
+git clone https://github.com/vasukiadiga/crypto-sentiment-analysis.git
 cd crypto-sentiment-analysis
 ~~~
 
