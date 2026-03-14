@@ -10,7 +10,7 @@ By combining exploratory data analysis, K-Means clustering, and a Gradient Boost
 ## 📂 Repository Contents
 * `crypto_analysis.ipynb`: The core Jupyter Notebook containing all data cleaning, feature engineering, clustering, and predictive modeling code.
 * `app.py`: The interactive Streamlit dashboard summarizing the insights.
-* `historical_data.csv`: Raw dataset containing 211k+ individual trade executions.
+* `historical_data.zip`: Zip file containing Raw dataset with 211k+ individual trade executions.
 * `fear_greed_index.csv`: Raw dataset containing daily Crypto Fear & Greed Index values.
 * `requirements.txt`: List of dependencies for reproducibility.
 
